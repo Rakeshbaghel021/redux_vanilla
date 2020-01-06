@@ -1,0 +1,85 @@
+.inc,.dec,.reset{
+  
+    border: solid 1px transparent;
+  border-radius: 4px;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  margin: 2px 0;
+  padding: 0.5em 1em;
+  color: #ffffff;
+  font-weight: 500;
+  background-color: #9555af;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  cursor: pointer;
+}
+.inc:hover {
+    color: #9555af;
+  border-color: currentColor;
+  background-color: white;
+  cursor: pointer;
+}
+.dec:hover {
+    color: #9555af;
+  border-color: currentColor;
+  background-color: white;
+}
+.reset:hover {
+    color: #9555af;
+  border-color: currentColor;
+  background-color: white;
+}
+
+.but{
+    margin-top: 1rem;
+}
+.num5,.num8,.num10,.num12,.num14,.num16{
+    border: solid 1px transparent;
+    border-radius: 4px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 0;
+    padding: 0.5em 1em;
+    color: #ffffff;
+    font-weight: 500;
+    background-color: #302933;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+}
+.num5:hover{
+    color: #9555af;
+    border-color: currentColor;
+    background-color: white;
+    cursor: pointer;
+  }
+.num8:hover{
+  color: #9555af;
+    border-color: currentColor;
+    background-color: white;
+    cursor: pointer;
+}
+.num10:hover{
+  color: #9555af;
+    border-color: currentColor;
+    background-color: white;
+    cursor: pointer;
+}
+.num12:hover{
+  color: #9555af;
+    border-color: currentColor;
+    background-color: white;
+    cursor: pointer;
+}
+.num14:hover{
+  color: #9555af;
+    border-color: currentColor;
+    background-color: white;
+    cursor: pointer;
+}
+.num16:hover{
+  color: #9555af;
+    border-color: currentColor;
+    background-color: white;
+    cursor: pointer;
+}
