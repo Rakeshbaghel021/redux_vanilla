@@ -22,7 +22,7 @@ const store = Redux.createStore(reducer);
 function reducer(state = 0 , action) {
     switch(action.type) {
         case "INC":
-            if(state >=10){
+            if(state >=100){
                 alert("Danger")
             }
             else{
