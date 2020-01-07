@@ -1,4 +1,4 @@
-let inc = document.querySelector(".inc");
+ let inc = document.querySelector(".inc");
 let dec = document.querySelector(".dec");
 let reset = document.querySelector(".reset");
 let count = document.querySelector(".count");
